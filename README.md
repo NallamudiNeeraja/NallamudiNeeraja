@@ -17,61 +17,71 @@ I’m passionate about crafting clean code, learning new technologies, and deliv
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies  
 
-**👨‍💻 Languages & Frameworks**  
-- Java, JavaScript  
-- HTML, CSS, Bootstrap, ReactJS  
-- JSP, Servlets, Spring Boot, Hibernate  
-
-**🗄️ Databases**  
-- Oracle, MySQL  
-
-**⚙️ Tools & Platforms**  
-- Apache Tomcat, Maven  
-- Eclipse IDE, VS Code  
-- Git, GitHub  
-
----
-
-### 📁 Projects
-
-🔹 **Restaurant Management System (Coskills Internship Project)**  
-Led a team to design and develop a restaurant management web app, integrating backend APIs with front-end UI and optimizing query performance for fast response times.  
-
-🔹 **Online Electronic Store**  
-Developed a full-stack e-commerce system with user and admin modules for managing products, orders, and database transactions using Oracle and JDBC.  
-
-🔹 **iBomma Clone (Movie Streaming Web App)**  
-Built a responsive movie streaming platform using HTML, CSS Grid/Flexbox, and JavaScript, ensuring seamless playback and device compatibility.  
-
----
-
-### 🧠 Internship
-**Coskills.in – Java Full Stack Intern**  
-- Designed backend schemas and implemented API integrations  
-- Improved application efficiency by 30% through optimized queries and agile development practices  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NallamudiNeeraja&show_icons=true&theme=tokyonight" alt="Neeraja's GitHub stats" />
+### 👨‍💻 Languages & Frameworks  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NallamudiNeeraja&theme=tokyonight" alt="GitHub Streak" />
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NallamudiNeeraja&layout=compact&theme=tokyonight" alt="Top Languages" />
+### ⚙️ Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect
+## 📁 Projects  
+
+### 🔹 [Employee Management System](https://github.com/NallamudiNeeraja/EmployeeManagmentSystem)
+A complete employee management application that handles employee data, roles, departments, and performance records.  
+**Tech Stack:** Java, Spring Boot, JSP, Servlets, Oracle, HTML, CSS, Bootstrap  
+
+---
+
+### 🔹 [Online Electronic Store](https://github.com/NallamudiNeeraja/Online-Electronic-Store)
+A full-stack e-commerce web application featuring user and admin modules, product management, and order handling.  
+**Tech Stack:** Java, JSP, Servlets, JDBC, Oracle, Bootstrap  
+
+---
+
+### 🔹 [Netflix Clone](https://github.com/NallamudiNeeraja/Netflix)
+A responsive movie streaming interface inspired by Netflix with modern UI, hover effects, and media playback structure.  
+**Tech Stack:** ReactJS, HTML, CSS, JavaScript  
+
+---
+
+### 🔹 [iBomma Project](https://github.com/NallamudiNeeraja/ibomma-project)
+A movie streaming clone project built with a grid-based layout for smooth navigation and responsive design.  
+**Tech Stack:** HTML, CSS, JavaScript  
+
+---
+
+⭐ *More exciting projects coming soon! Check my pinned repositories for updates.*  
+
+---
+
+## 🤝 Let's Connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/nallamudi-neeraja-153528268/)  
 📧 neerajanallamudi@gmail.com  
 
-⭐ *Thanks for visiting my profile! I’m always open to learning, collaborating, and exploring new technologies.*
+⭐️ *Thanks for visiting my profile! Let’s connect and collaborate on exciting Java or React projects!*
